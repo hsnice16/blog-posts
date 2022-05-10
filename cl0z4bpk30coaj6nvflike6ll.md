@@ -71,7 +71,7 @@ In `jsconfig.json` file, write the following lines
 }
 ```
 
-And now, in `Home.jsx` we can impore the `Heading.jsx` like this
+And now, in `Home.jsx` we can import the `Heading.jsx` like this
 
 ```jsx
 // in Home.jsx
